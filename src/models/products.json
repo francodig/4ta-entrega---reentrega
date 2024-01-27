@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "title": "iPhone 13",
+      "price": 999.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdIIcVr1plov42S7NwDCM6taVIJaqlvv2ZvxKDRLTMjA&s",
+      "description": "El último modelo de iPhone con increíbles características.",
+      "code": "APL-IPH-13",
+      "stock": 50,
+      "status": true,
+      "category": "smartphone"
+    },
+    {
+      "id": 2,
+      "title": "Samsung Galaxy Book Pro",
+      "price": 1299.99,
+      "image": "https://buenosairesimport.com/4931-large_default/samsung-galaxy-book-pro-360-15.jpg",
+      "description": "Potente laptop para tus necesidades profesionales y de entretenimiento.",
+      "code": "SAM-GBP",
+      "stock": 30,
+      "status": true,
+      "category": "laptop"
+    },
+    {
+      "id": 3,
+      "title": "Dell UltraSharp U2720Q",
+      "price": 449.99,
+      "image": "https://createdtech.com/wp-content/uploads/2021/05/dell-u2720q-review.jpg",
+      "description": "Monitor 4K para una experiencia visual impresionante.",
+      "code": "DEL-U2720Q",
+      "stock": 20,
+      "status": true,
+      "category": "monitor"
+    },
+    {
+      "id": 4,
+      "title": "Sony PlayStation 5",
+      "price": 499.99,
+      "image": "https://as02.epimg.net/meristation/imagenes/2020/06/11/videos/1591911132_318262_1591911264_noticia_normal.jpg",
+      "description": "La consola de próxima generación para juegos de alta calidad.",
+      "code": "SNY-PS5",
+      "stock": 15,
+      "status": true,
+      "category": "playStation"
+    },
+    {
+      "id": 5,
+      "title": "LG Gram 17",
+      "price": 1499.99,
+      "image": "https://www.lg.com/es/images/ordenadores/md07562991/gallery/D-005.jpg",
+      "description": "Laptop ultraligera con una pantalla grande para mayor productividad.",
+      "code": "LG-G17",
+      "stock": 25,
+      "status": true,
+      "category": "laptop"
+    },
+  
+    {
+      "id": 6,
+      "title": "Logitech MX Master 3",
+      "price": 99.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5VHmV7VTS-dIWBhIMYn8eGYPcbIRC23orXDaZ2tJXiQ&s",
+      "description": "Ratón avanzado para mejorar tu experiencia de trabajo.",
+      "code": "LOG-MX3",
+      "stock": 40,
+      "status": true,
+      "category": "accesorio"
+    },
+    {
+      "id": 7,
+      "title": "Bose QuietComfort 35 II",
+      "price": 299.99,
+      "image": "https://assets.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/global/products/headphones/qc35_ii/images/qc35_ii_product_page_buy_panel_1x1.psd/jcr:content/renditions/cq5dam.web.320.320.png",
+      "description": "Audífonos con cancelación de ruido para una experiencia musical inmersiva.",
+      "code": "BOSE-QC35",
+      "stock": 18,
+      "status": true,
+      "category": "audio"
+    },
+    {
+      "id": 8,
+      "title": "Canon EOS R5",
+      "price": 3799.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxnnMLDSmQUPV7MCFgm6LxPTMoGCCkK4Jzj8xivQYsbg&s",
+      "description": "Cámara digital de alta resolución para fotografía y video profesional.",
+      "code": "CAN-EOSR5",
+      "stock": 12,
+      "status": true,
+      "category": "cámara"
+    },
+    {
+      "id": 9,
+      "title": "Asus ROG Strix Scar 17",
+      "price": 2299.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFIVZaFouoPtocLlkQMxdOy3_IEaNAdpssPnwgp5VF2w&s",
+      "description": "Laptop para gaming con potentes especificaciones para juegos intensivos.",
+      "code": "ASUS-ROG-SCAR17",
+      "stock": 8,
+      "status": true,
+      "category": "gaming"
+    },
+    {
+      "id": 10,
+      "title": "Fitbit Charge 5",
+      "price": 179.99,
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2021/08/fitbit-charge-5.png?fit=1840%2C1226&quality=50&strip=all&ssl=1",
+      "description": "Rastreador de actividad para monitorizar tu salud y forma física.",
+      "code": "FIT-CHARGE5",
+      "stock": 35,
+      "status": true,
+      "category": "dispositivo ponible"
+    }
+  ]
